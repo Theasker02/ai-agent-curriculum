@@ -1,0 +1,18 @@
+Quarterly Planning Memo — Q2 2026
+
+Date: 2026-04-05
+Author: Product team
+
+Summary:
+Team đã review KPIs Q1 và định hướng Q2. Focus chính: ra mắt feature X, cải thiện
+thời gian onboarding, và mở rộng ra thị trường Đông Nam Á.
+
+Key decisions:
+- Feature X sẽ launch vào tuần thứ 3 của tháng 5. Owner: An.
+- Onboarding flow rút từ 5 bước xuống 3, deadline 15/05. Owner: Bình.
+- Market expansion: bắt đầu với Thái Lan, Malaysia. Ngân sách 200 triệu. Owner: Chi.
+
+Budget:
+Tổng Q2 budget: 1.2 tỷ VND. Engineering 60%, Marketing 25%, Ops 15%.
+
+Follow-up meeting: 2026-05-01.
